@@ -44,5 +44,4 @@ This project demonstrates a **BadUSB-based attack framework** using two covert U
 
 ---
 
-## 📁 Repository Structure
 
